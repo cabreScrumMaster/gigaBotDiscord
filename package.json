@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cabreScrumMaster/gigaBotDiscord#readme",
   "dependencies": {
-    "discord.js": "^14.7.0"
+    "discord.js": "^14.7.0",
+    "dotenv": "^16.0.3"
   }
 }
